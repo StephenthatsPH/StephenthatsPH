@@ -1,6 +1,6 @@
 # Stephen Nerby
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=40&lines=Software+Engineer;Complete+Computer+Nerd;Fullstack+Dev;Human+Debugger;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Software+Engineer;Creative+Cook;Fullstack+Dev;Real+Gamer;Software+Engineer;Avid+Reader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=40&lines=Software+Engineer;Complete+Computer+Nerd;Fullstack+Dev;Human+Debugger;Software+Engineer;Creative+Cook;Fullstack+Dev;Real+Gamer;Software+Engineer;Avid+Reader)](https://git.io/typing-svg)
 
 
 
