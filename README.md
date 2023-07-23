@@ -1,4 +1,6 @@
-### Hi there 👋
+# Stephen Nerby
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=E0115F&width=500&lines=Software+Engineer+;Complete+Computer+Nerd;Fullstack+Dev;Human+Debugger;Software+Engineer;Creative+Cook;Fullstack+Dev;Real+Gamer;Software+Engineer;Voracious+Reader;)](https://git.io/typing-svg)
 
 <!--
 **StephenthatsPH/StephenthatsPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
