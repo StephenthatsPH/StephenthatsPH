@@ -7,22 +7,24 @@
 ## Tech-know-ologies:
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=black&style=flat&color=blue)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=black)
-![Ruby](https://img.shields.io/badge/Rails-CC342D?style=flat&logo=rubyonrails&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=black&style=flat)
-![Postman](https://camo.githubusercontent.com/5dbc91c96697ff4e6626a305019cc44bdadab5146d3ad9269497e9bff6bd0605/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465267374796c653d666c6174)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=black&style=flat)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=black&style=flat)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=black&style=flat) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## Blog and LinkedIn:
 
 
-[<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='dev.to' height='40'>](https://dev.to/@stephenthatsPH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephen-nerby/)
+[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt='dev.to' height='40' width="40">](https://dev.to/@stephenthatsPH)  [<img src="https://img.icons8.com/color/48/linkedin.png" alt='linkedin' height='40' width="40">](https://www.linkedin.com/in/stephen-nerby/)
 
 
 <!--
