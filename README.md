@@ -10,14 +10,6 @@ I graduated from Fullstack Academy's Software Engineering program in 2023. I'm c
 
 I'm interested in opportunities in application support, technical support, software development, quality assurance, and technical implementation.
 
-## Technical Skills
-
-**Current strengths**
-- JavaScript
-- React
-- Technical troubleshooting
-- Problem-solving
-
 **Previous development experience**
 - Node.js and Express
 - Redux
@@ -73,6 +65,14 @@ My contributions included:
 - Backend development and code organization
 
 > These historical projects were developed during my software engineering education in 2023. They may require dependency and API updates to run.
+
+## Technical Skills
+
+**Current strengths:** JavaScript, React, technical troubleshooting, problem-solving.
+
+**Previous development experience:** Node.js, Express, Redux, PostgreSQL, Sequelize, REST APIs, HTML, CSS, Git, GitHub, OpenAI API integration.
+
+**Currently learning and refreshing:** TypeScript, SQL, PostgreSQL, Prisma, automated testing, data structures and algorithms.
 
 ## Portfolio Roadmap
 
