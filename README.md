@@ -1,43 +1,90 @@
-# Stephen Nerby
+# Hi, I'm Stephen 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=40&lines=Software+Engineer;Complete+Computer+Nerd;Fullstack+Dev;Human+Debugger;Software+Engineer;Creative+Cook;Fullstack+Dev;Real+Gamer;Software+Engineer;Avid+Reader)](https://git.io/typing-svg)
+Technical professional and Fullstack Academy graduate transitioning from automotive diagnostics into technology.
 
+## About Me
 
+I'm currently a diesel technician with a professional background in systematic troubleshooting, technical diagnostics, problem-solving, and technical leadership.
 
-## Tech-know-ologies:
+I graduated from Fullstack Academy's Software Engineering program in 2023. I'm currently refreshing my software development skills through hands-on projects and structured learning.
 
+I'm interested in opportunities in application support, technical support, software development, quality assurance, and technical implementation.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Technical Skills
 
+**Current strengths**
+- JavaScript
+- React
+- Technical troubleshooting
+- Problem-solving
 
-## Blog and LinkedIn:
+**Previous development experience**
+- Node.js and Express
+- Redux
+- PostgreSQL and Sequelize
+- REST APIs
+- HTML and CSS
+- Git and GitHub
+- OpenAI API integration
 
+**Currently learning and refreshing**
+- TypeScript
+- SQL and PostgreSQL
+- Prisma
+- Automated testing
+- Data structures and algorithms
 
-[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt='dev.to' height='40' width="40">](https://dev.to/@stephenthatsPH)  [<img src="https://img.icons8.com/color/48/linkedin.png" alt='linkedin' height='40' width="40">](https://www.linkedin.com/in/stephen-nerby/)
+## Selected Projects
 
+### [Stackathon — AI-Assisted Chat Application](https://github.com/StephenthatsPH/Stackathon)
 
-<!--
-**StephenthatsPH/StephenthatsPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Individual project | July 2023*
 
-Here are some ideas to get you started:
+An AI-assisted chat application built using React, Node.js, Express, Redux, and the OpenAI API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My contributions included:
+- Custom React messaging components
+- Client-side and server-side API integration
+- Redux state management
+- Message submission and file attachment interfaces
+
+### [SWEbay — Full-Stack E-Commerce Platform](https://github.com/GraceShopper-Damascus/SWEBay-Damascus)
+
+*Collaborative project | July 2023*
+
+A full-stack e-commerce application built using PostgreSQL, Express, React, and Node.js.
+
+My contributions included:
+- Relational database modeling and associations
+- Database seeding using Faker
+- Shopping cart creation during user registration
+- Authentication interfaces and application routing
+
+### [Comparely — AI-Powered Competitive Analysis Platform](https://github.com/JEESH-For-Breakfast/Compare)
+
+*Collaborative project | August 2023*
+
+A competitive analysis platform designed to collect and analyze external company data.
+
+My contributions included:
+- Application initialization
+- External data retrieval
+- API authentication token generation
+- Backend development and code organization
+
+> These historical projects were developed during my software engineering education in 2023. They may require dependency and API updates to run.
+
+## Portfolio Roadmap
+
+I'm planning three new projects to strengthen my software engineering skills and demonstrate my continued development.
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| Personal Finance & Budgeting Platform | Financial tracking, budgeting, and data visualization | Planned |
+| Automotive Shop Management Platform | Work orders, service management, and shop operations | Planned |
+| AI Diagnostic Insights Assistant | Automotive diagnostics and AI-assisted software | Planned |
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/stephen-nerby/)
+- Location: Champaign, Illinois
