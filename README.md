@@ -10,22 +10,6 @@ I graduated from Fullstack Academy's Software Engineering program in 2023. I'm c
 
 I'm interested in opportunities in application support, technical support, software development, quality assurance, and technical implementation.
 
-**Previous development experience**
-- Node.js and Express
-- Redux
-- PostgreSQL and Sequelize
-- REST APIs
-- HTML and CSS
-- Git and GitHub
-- OpenAI API integration
-
-**Currently learning and refreshing**
-- TypeScript
-- SQL and PostgreSQL
-- Prisma
-- Automated testing
-- Data structures and algorithms
-
 ## Selected Projects
 
 ### [Stackathon — AI-Assisted Chat Application](https://github.com/StephenthatsPH/Stackathon)
